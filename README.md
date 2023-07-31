@@ -1,4 +1,5 @@
-# StealthMax-Controller
+# StealthMax-Controller-TopHat
+
 A tophat for the Raspberry Pi Pico W for the Nevermore StealthMax.  
 
 ####   THIS IS JUST A PRELIMINARY RELEASE: UNDER CONSTRUCTION, CHECK BACK on 8/15 for updated Readme   ####
